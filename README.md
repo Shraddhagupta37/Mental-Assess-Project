@@ -23,6 +23,7 @@ Access a library of validated self-assessment screening tools (e.g., PHQ-9 for D
 *   **30-Day Analytics:** Interactive line charts mapping your mood, sleep, and energy correlations over time.
 *   **Calendar Heart Visualization:** A unique calendar view where each day is represented by an SVG heart. The outer outline color indicates your mood score, while the inner outline reflects your sleep quality.
 
+
 ### 🧘 Mindfulness & Focus Modes
 A dedicated **Wellness Toolkit** with five interactive, immersive modes designed to calm your mind, sharpen your focus, and help you wind down — accessible anytime, anywhere:
 
@@ -41,7 +42,6 @@ A dedicated **Wellness Toolkit** with five interactive, immersive modes designed
 
 *   **🌙 Sleep** *(Rest, Wind Down)*: A sleep preparation toolkit with proven techniques including **Progressive Muscle Relaxation** and the **Cognitive Shuffle** method, paired with calming audio to ease you into rest.
 
----
 
 ### 🎨 Beautiful, Themed UI/UX
 *   **Premium Glassmorphism Aesthetics:** Clean, calming UI tailored for psychological safety.
@@ -150,12 +150,6 @@ Contributions make the open-source community an amazing place to learn, inspire,
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
