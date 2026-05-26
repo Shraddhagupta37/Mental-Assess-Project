@@ -23,6 +23,26 @@ Access a library of validated self-assessment screening tools (e.g., PHQ-9 for D
 *   **30-Day Analytics:** Interactive line charts mapping your mood, sleep, and energy correlations over time.
 *   **Calendar Heart Visualization:** A unique calendar view where each day is represented by an SVG heart. The outer outline color indicates your mood score, while the inner outline reflects your sleep quality.
 
+### 🧘 Mindfulness & Focus Modes
+A dedicated **Wellness Toolkit** with five interactive, immersive modes designed to calm your mind, sharpen your focus, and help you wind down — accessible anytime, anywhere:
+
+*   **🌬️ Breathe** *(Relaxation, ~2–10 min)*: Guided breathing exercises with an animated visual circle that expands and contracts to your breath rhythm. Choose from four clinically-grounded patterns:
+    *   **4-7-8 Relaxation** — activates the parasympathetic nervous system; ideal for sleep prep.
+    *   **Box Breathing** — used by Navy SEALs for focus and grounding.
+    *   **Calm Down** — extended exhale to reduce anxiety and heart rate.
+    *   **Energizing Breath** — quick, balanced cycles for a mid-day reset.
+    Includes optional transition chimes, a cycle progress tracker, and a session completion screen.
+
+*   **🧘 Meditate** *(Mindfulness, ~5–20 min)*: Timed guided meditation sessions with on-screen instructions. Includes sessions for Mindfulness, Body Scan, and Loving Kindness practices.
+
+*   **🎯 Focus** *(Productivity, Custom)*: A Pomodoro-style deep focus timer with structured work/break intervals, task tracking, and break alerts. Choose from preset rhythms (e.g., Pomodoro Classic: 25/5 min) or set custom durations.
+
+*   **🎵 Music** *(Audio, Continuous)*: An ambient soundscape mixer. Blend nature sounds (forest, rain), noise textures (white, pink, brown noise), and generated tones (432Hz Ethereal Pad, binaural-inspired) to create a personalised focus or relaxation environment. Plays globally across the app.
+
+*   **🌙 Sleep** *(Rest, Wind Down)*: A sleep preparation toolkit with proven techniques including **Progressive Muscle Relaxation** and the **Cognitive Shuffle** method, paired with calming audio to ease you into rest.
+
+---
+
 ### 🎨 Beautiful, Themed UI/UX
 *   **Premium Glassmorphism Aesthetics:** Clean, calming UI tailored for psychological safety.
 *   **5 Pastel Color Themes:** Choose your vibe — Sage Garden, Lavender Dream, Rose Garden, Ocean Breeze, or Sunset Peach.
